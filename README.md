@@ -1,7 +1,7 @@
 # Predicting solar radiation using simple data
 
 ## Project Structure
-
+```
 /solar-radiation/
 ├── README.md
 ├── data/
@@ -19,3 +19,4 @@
 ├── config/
 ├── requirements.txt
 └── .gitignore
+```
