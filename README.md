@@ -1,6 +1,4 @@
-# solar-radiation
-Predicting solar radiation using simple data
-
+# Predicting solar radiation using simple data
 
 ## Project Structure
 
