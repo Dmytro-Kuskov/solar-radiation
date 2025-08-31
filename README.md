@@ -11,12 +11,8 @@
 │   ├── 00-download-data.ipynb   # Downloading datasets from Google Drive
 │   ├── 01-exploration.ipynb     # Exploratory analysis
 │   └── 02-modeling.ipynb        # Models
-├── src/
-│   └── utils.py
 ├── outputs/
-│   ├── figures/
-│   └── reports/
-├── config/
+│   └── figures/
 ├── requirements.txt
 └── .gitignore
 ```
