@@ -2,7 +2,7 @@
 
 ## Overview
 This project explores the prediction of **solar radiation flux** using reanalysis data (AgERA5), topography (GMTED2010 DEM), and astronomical calculations.  
-The workflow includes dataset preparation, feature engineering, and benchmarking of both linear and non-linear regression models.
+The workflow includes dataset preparation, feature engineering, and modeling of both linear and non-linear regression models.
 
 ---
 
@@ -24,7 +24,7 @@ The workflow includes dataset preparation, feature engineering, and benchmarking
 ---
 
 ## Data Preprocessing
-- Missing values are **dropped** (not imputed).  
+- Missing values are **dropped**.  
 - Two sets of features are used:
   - **Transformed features** for linear models: `H0_MJ`, `daylength`, `lat_cos`, `lon_cos`, `Cloud_Cover_Mean_24h`, `elevation_log`, `doy_sin`, `doy_cos`  
   - **Raw features** for non-linear models: `H0_MJ`, `daylength`, `lat`, `lon`, `Cloud_Cover_Mean_24h`, `elevation`, `doy_sin`, `doy_cos`
