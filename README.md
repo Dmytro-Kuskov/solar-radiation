@@ -79,6 +79,7 @@ The workflow includes dataset preparation, feature engineering, and modeling of 
 ├── outputs/
 │   └── figures/
 ├── requirements.txt
+├── Written Report_ Predicting Solar Radiation Flux by Dmytro Kuskov.pdf
 └── .gitignore
 ```
 ---
